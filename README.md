@@ -7,7 +7,7 @@ This is a project covered in [this course by Jeremy Chone](https://www.youtube.c
 Start the application in one terminal:
 
 ```bash
-$ cargo watch -q -c -w src/ -x run
+$ cargo watch -q -c -w src/ -w .cargo/ -x run
 ```
 
 and run the integration tests in another:
