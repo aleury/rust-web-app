@@ -1,0 +1,4 @@
+edition = "2021"
+max_width = 88
+# chain_width = 40
+# array_width = 40
